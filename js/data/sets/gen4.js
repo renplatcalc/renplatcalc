@@ -382,7 +382,7 @@ var SETDEX_DPP = {
         "PKMN Trainer Cheryl": {
             "level": 19,
             "nature": "Lonely",
-            "ability": "Water Veil",
+            "ability": "Drizzle",
             "moves": [
                 "Water Pulse",
                 "Rock Tomb",
@@ -960,7 +960,7 @@ var SETDEX_DPP = {
             "level": 32,
             "item": "Scope Lens",            
             "nature": "Jolly",
-            "ability": "Sniper",
+            "ability": "Battle Armor",
             "moves": [
                 "X-Scissor",
                 "Cross Poison",
@@ -972,7 +972,7 @@ var SETDEX_DPP = {
             "level": 72,
             "item": "Scope Lens",            
             "nature": "Jolly",
-            "ability": "Sniper",
+            "ability": "Battle Armor",
             "moves": [
                 "X-Scissor",
                 "Cross Poison",
@@ -984,7 +984,7 @@ var SETDEX_DPP = {
             "level": 72,
             "item": "Scope Lens",            
             "nature": "Naive",
-            "ability": "Sniper",
+            "ability": "Battle Armor",
             "moves": [
                 "Aqua Tail",
                 "Cross Poison",
@@ -996,7 +996,7 @@ var SETDEX_DPP = {
             "level": 72,
             "item": "Scope Lens",            
             "nature": "Naive",
-            "ability": "Sniper",
+            "ability": "Battle Armor",
             "moves": [
                 "X-Scissor",
                 "Cross Poison",
@@ -1008,7 +1008,7 @@ var SETDEX_DPP = {
             "level": 72,
             "item": "Scope Lens",            
             "nature": "Naive",
-            "ability": "Sniper",
+            "ability": "Battle Armor",
             "moves": [
                 "Aqua Tail",
                 "Cross Poison",
@@ -1970,7 +1970,7 @@ var SETDEX_DPP = {
             "level": 33,
             "item": "Zoom Lens",            
             "nature": "Lonely",
-            "ability": "Cute Charm",
+            "ability": "Magic Guard",
             "moves": [
                 "Moonblast",
                 "Hyper Voice",
@@ -2776,7 +2776,7 @@ var SETDEX_DPP = {
         "Arcade Star Dahlia": {
             "level":66,
             "nature":"Docile",
-            "ability":"Pressure",
+            "ability":"Static",
             "item":"Sitrus Berry",
             "moves":[
                 "Light Screen",
@@ -3669,7 +3669,7 @@ var SETDEX_DPP = {
             "level": 48,
             "item": "Shuca Berry",            
             "nature": "Calm",
-            "ability": "Pressure",
+            "ability": "Flash Fire",
             "moves": [
                 "Sacred Fire",
                 "Stone Edge",
@@ -3829,7 +3829,7 @@ var SETDEX_DPP = {
             "level": 71,
             "item": "Leftovers",            
             "nature": "Adamant",
-            "ability": "Sturdy",
+            "ability": "Battle Armor",
             "moves": [
                 "Gyro Ball",
                 "Bug Bite",
@@ -3840,7 +3840,7 @@ var SETDEX_DPP = {
         "Veteran Brenden": {
             "level": 66,          
             "nature": "Lonely",
-            "ability": "Sturdy",
+            "ability": "Battle Armor",
             "moves": [
                 "Gyro Ball",
                 "Bug Bite",
@@ -4205,7 +4205,7 @@ var SETDEX_DPP = {
             "level": 56,
             "item": "Choice Specs",            
             "nature": "Relaxed",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Fire Blast",
                 "Thunderbolt",
@@ -4217,7 +4217,7 @@ var SETDEX_DPP = {
             "level": 74,
             "item": "Life Orb",            
             "nature": "Timid",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Fire Blast",
                 "Thunderbolt",
@@ -4229,7 +4229,7 @@ var SETDEX_DPP = {
             "level": 74,
             "item": "Life Orb",            
             "nature": "Modest",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Fire Blast",
                 "Thunderbolt",
@@ -4241,7 +4241,7 @@ var SETDEX_DPP = {
             "level": 74,
             "item": "Life Orb",            
             "nature": "Modest",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Fire Blast",
                 "Thunderbolt",
@@ -4253,7 +4253,7 @@ var SETDEX_DPP = {
             "level": 74,
             "item": "Life Orb",            
             "nature": "Rash",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Fire Blast",
                 "Thunderbolt",
@@ -4264,7 +4264,7 @@ var SETDEX_DPP = {
         "Ace Trainer Dalton": {
             "level": 52,          
             "nature": "Impish",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Flamethrower",
                 "Thunderbolt",
@@ -4499,7 +4499,7 @@ var SETDEX_DPP = {
             "level": 65,
             "item": "Expert Belt",            
             "nature": "Docile",
-            "ability": "Illuminate",
+            "ability": "Natural Cure",
             "moves": [
                 "Hydro Pump",
                 "Blizzard",
@@ -4806,7 +4806,7 @@ var SETDEX_DPP = {
         "Veteran Brian": {
             "level": 43,           
             "nature": "Careful",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Flare Blitz",
                 "Double-Edge",
@@ -4818,7 +4818,7 @@ var SETDEX_DPP = {
             "level": 73, 
 			"item": "Power Herb",
             "nature": "Hasty",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Flare Blitz",
                 "Wild Charge",
@@ -4830,7 +4830,7 @@ var SETDEX_DPP = {
             "level": 73, 
 			"item": "Heat Rock",
             "nature": "Naive",
-            "ability": "Flame Body",
+            "ability": "Flash Fire",
             "moves": [
                 "Flare Blitz",
                 "Wild Charge",
@@ -4908,7 +4908,7 @@ var SETDEX_DPP = {
         "Ace Trainer Sydney": {
             "level": 63,           
             "nature": "Impish",
-            "ability": "Cute Charm",
+            "ability": "Magic Guard",
             "moves": [
                 "Moonblast",
                 "Reflect",
@@ -5224,7 +5224,7 @@ var SETDEX_DPP = {
             "level": 72,      
             "item": "Life Orb", 			
             "nature": "Careful",
-            "ability": "Oblivious",
+            "ability": "Swift Swim",
             "moves": [
                 "Aqua Tail",
                 "Earthquake",
@@ -5265,7 +5265,7 @@ var SETDEX_DPP = {
             "level": 72,      
             "item": "Rindo Berry", 			
             "nature": "Impish",
-            "ability": "Sand Veil",
+            "ability": "Battle Armor",
             "moves": [
                 "Play Rough",
                 "Earthquake",
@@ -5276,7 +5276,7 @@ var SETDEX_DPP = {
         "Veteran Brenden": {
             "level": 66,      			
             "nature": "Bold",
-            "ability": "Sand Veil",
+            "ability": "Battle Armor",
             "moves": [
                 "Play Rough",
                 "Earthquake",
@@ -5329,7 +5329,7 @@ var SETDEX_DPP = {
             "level":39,
             "item":"Rindo Berry",
             "nature":"Quiet",
-            "ability":"Torrent",
+            "ability":"Swift Swim",
             "moves": [
                 "Waterfall",
                 "Ice Punch",
@@ -5342,7 +5342,7 @@ var SETDEX_DPP = {
             "level": 72,      
             "item": "Lum Berry", 			
             "nature": "Adamant",
-            "ability": "Torrent",
+            "ability": "Swift Swim",
             "moves": [
                 "Aqua Tail",
                 "Rest",
@@ -5571,7 +5571,7 @@ var SETDEX_DPP = {
             "level": 74,      
             "item": "Colbur Berry", 			
             "nature": "Hasty",
-            "ability": "Inner Focus",
+            "ability": "Scrappy",
             "moves": [
                 "Psychic",
                 "Thunderbolt",
@@ -5995,7 +5995,7 @@ var SETDEX_DPP = {
         "Dragon Tamer Clinton": {
             "level": 64,      		
             "nature": "Sassy",
-            "ability": "Compound Eyes",
+            "ability": "Tinted Lens",
             "moves": [
                 "Bug Buzz",
                 "Dragon Pulse",
@@ -6007,7 +6007,7 @@ var SETDEX_DPP = {
             "level": 71,
 			"item": "White Herb",
             "nature": "Timid",
-            "ability": "Compound Eyes",
+            "ability": "Tinted Lens",
             "moves": [
                 "Bug Buzz",
                 "Draco Meteor",
@@ -6021,7 +6021,7 @@ var SETDEX_DPP = {
         "Dragon Tamer Clinton": {
             "level": 64,      		
             "nature": "Sassy",
-            "ability": "Marvel Scale",
+            "ability": "Filter",
             "moves": [
                 "Dragon Rush",
                 "Fire Blast",
